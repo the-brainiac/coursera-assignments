@@ -1,0 +1,5 @@
+name,official_name_en,official_name_fr,ISO3166-1-Alpha-2,ISO3166-1-Alpha-3,ISO3166-1-numeric,ITU,MARC,WMO,DS,Dial,FIFA,FIPS,GAUL,IOC,ISO4217-currency_alphabetic_code,ISO4217-currency_country_name,ISO4217-currency_minor_unit,ISO4217-currency_name,ISO4217-currency_numeric_code,is_independent,Capital,Continent,TLD,Languages,geonameid,EDGAR
+Brazil,Brazil,Brésil,BR,BRA,76,B,bl,BZ,BR,55,BRA,BR,37,BRA,BRL,BRAZIL,2,Brazilian Real,986,Yes,Brasilia,SA,.br,"pt-BR,es,en,fr",3469034,D5
+Turkey,Turkey,Turquie,TR,TUR,792,TUR,tu,TU,TR,90,TUR,TU,249,TUR,TRY,TURKEY,2,Turkish Lira,949,Yes,Ankara,AS,.tr,"tr-TR,ku,diq,az,av",298795,W8
+Sudan,Sudan,Soudan,SD,SDN,729,SDN,sj,SU,SUD,249,SUD,SU,40764,SUD,SDG,SUDAN,2,Sudanese Pound,938,Yes,Khartoum,AF,.sd,"ar-SD,en,fia",366755,V2
+Christmas Island,,,CX,CXR,162,CHR,xa,KI,AUS,61,CXR,KT,54,,,,,,,Territory of AU,Flying Fish Cove,AS,.cx,"en,zh,ms-CC",2078138,

@@ -1,0 +1,10 @@
+name,official_name_en,official_name_fr,ISO3166-1-Alpha-2,ISO3166-1-Alpha-3,ISO3166-1-numeric,ITU,MARC,WMO,DS,Dial,FIFA,FIPS,GAUL,IOC,ISO4217-currency_alphabetic_code,ISO4217-currency_country_name,ISO4217-currency_minor_unit,ISO4217-currency_name,ISO4217-currency_numeric_code,is_independent,Capital,Continent,TLD,Languages,geonameid,EDGAR
+PuertoRico,PuertoRico,Porto Rico,PR,PRI,630,PTR,pr,PU,USA,1,PUR,RQ,200,PUR,USD,PUERTO RICO,2,US Dollar,840,Commonwealth of US,San Juan,NA,.pr,"en-PR,es-PR",4566966,PR
+Norway,Norway,Norvège,NO,NOR,578,NOR,no,NO,N,47,NOR,NO,186,NOR,NOK,NORWAY,2,Norwegian Krone,578,Yes,Oslo,EU,.no,"no,nb,nn,se,fi",3144096,Q8
+US,UnitedStatesofAmerica,États-Unis d\'Amérique,US,USA,840,USA,xxu,US,USA,1,USA,US,259,USA,USD,UNITED STATES,2,US Dollar,840,Yes,Washington,NA,.us,"en-US,es-US,haw,fr",6252001,
+Argentine,Argentine,Argentine,AR,ARG,32,ARG,ag,AG,RA,54,ARG,AR,12,ARG,ARS,ARGENTINA,2,Argentine Peso,32,Yes,Buenos Aires,SA,.ar,"es-AR,en,it,de,fr,gn",3865483,C1
+Suisse,Suisse,Suisse,CH,CHE,756,SUI,sz,SW,CH,41,SUI,SZ,237,SUI,CHF,SWITZERLAND,2,Swiss Franc,756,Yes,Bern,EU,.ch,"de-CH,fr-CH,it-CH,rm",2658434,V8
+Japon,Japon,Japon,JP,JPN,392,J,ja,JP,J,81,JPN,JA,126,JPN,JPY,JAPAN,0,Yen,392,Yes,Tokyo,AS,.jp,ja,1861060,M0
+Christmas Island,,,CX,CXR,162,CHR,xa,KI,AUS,61,CXR,KT,54,,,,,,,Territory of AU,Flying Fish Cove,AS,.cx,"en,zh,ms-CC",2078138,
+Russia,Russia,Fédération de Russie,RU,RUS,643,RUS,ru,RS,RUS,7,RUS,RS,204,RUS,RUB,RUSSIAN FEDERATION,2,Russian Ruble,643,Yes,Moscow,EU,.ru,"ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,ava,sah,nog",2017370,1Z
+Chine,Chine,Chine,CN,CHN,156,CHN,cc,CI,,86,CHN,CH,53,CHN,CNY,CHINA,2,Yuan Renminbi,156,Yes,Beijing,AS,.cn,"zh-CN,yue,wuu,dta,ug,za",1814991,F4
